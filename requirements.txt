@@ -1,0 +1,5 @@
+colorama==0.4.6
+pyfiglet==0.8.post1
+pycryptodome==3.19.0
+regex==2023.10.3  # For more robust pattern matching
+pyreadline==2.1  # For better input handling on Windows
