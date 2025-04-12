@@ -23,7 +23,7 @@ Copy
 1. Clone the repository:
  ```bash
 
- git clone https://github.com/yourusername/securechat.git
+ git clone https://github.com/Hemanths2006/Chating-server-for-cli.git
  cd securechat
 Install dependencies:
 
