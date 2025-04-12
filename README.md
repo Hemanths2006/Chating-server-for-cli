@@ -24,7 +24,7 @@ Copy
  ```bash
 
  git clone https://github.com/Hemanths2006/Chating-server-for-cli.git
- cd securechat
+ cd Chating-server-for-cli
 Install dependencies:
 
 bash
